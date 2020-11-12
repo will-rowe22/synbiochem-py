@@ -1,0 +1,10 @@
+**/*.log
+**/*.prefs
+**/*.pyc
+**/.DS_Store
+/.project
+/.pydevproject
+/.settings/**
+/build/
+/dist/
+/synbiochem_py.egg-info/
